@@ -1,0 +1,22 @@
+{
+  "name": "backendrevise",
+  "version": "1.0.0",
+  "description": "javascript, nodejs github",
+  "bugs": {
+    "url": "https://github.com/adityaku12/chaiwithbackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityaku12/chaiwithbackend.git"
+  },
+  "license": "ISC",
+  "author": "Aditya kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
